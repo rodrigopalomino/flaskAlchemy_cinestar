@@ -1,0 +1,25 @@
+# Archivos de entorno y configuración
+.env
+instance/
+
+# Archivos generados automáticamente
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Archivos de registro
+*.log
+
+# Archivos y directorios específicos de Flask
+venv/
+*.db
+
+# Archivos de compilación
+*.pyc
+*.pyo
+*.pyd
+
+# Archivos de dependencias y entorno
+.env
+.env.*
